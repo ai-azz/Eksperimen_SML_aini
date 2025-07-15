@@ -1,0 +1,33 @@
+# Byte‑compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Conda / virtualenv environments
+env/
+venv/
+smsml/
+.conda/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# MLflow local database
+mlflow.db
+
+# Raw dataset (too large for GitHub)
+newsgroups_raw/*.csv
+
+# SpaCy model wheels
+en_core_web_sm-*.whl
