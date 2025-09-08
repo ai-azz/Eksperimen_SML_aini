@@ -36,6 +36,7 @@ docker==7.1.0
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1746947292760/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1745502089858/work
+fastapi==0.116.1
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1733235979760/work/dist
 Flask==3.1.1
 fonttools==4.58.5
@@ -163,6 +164,7 @@ SQLAlchemy==2.0.41
 sqlparse==0.5.3
 srsly==2.5.1
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
+starlette==0.47.1
 terminado @ file:///home/conda/feedstock_root/build_artifacts/terminado_1710262609923/work
 thinc==8.3.6
 threadpoolctl==3.6.0
@@ -179,6 +181,7 @@ typing_utils @ file:///home/conda/feedstock_root/build_artifacts/typing_utils_17
 tzdata==2025.2
 uri-template @ file:///home/conda/feedstock_root/build_artifacts/uri-template_1733323593477/work/dist
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1750271362675/work
+uvicorn==0.35.0
 wasabi==1.1.3
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
 weasel==0.4.1
